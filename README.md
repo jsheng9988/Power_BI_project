@@ -6,4 +6,4 @@ Source and credit to: https://youtu.be/I0vQ_VLZTWg
 
 Dashboard:
 
-![dashboard.png]
+![dashboard](dashboard.png)
